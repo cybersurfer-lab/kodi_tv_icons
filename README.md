@@ -1,24 +1,18 @@
-# I'm trying this for the 3rd time
+# TV-Logos Sammlung
 
-I now have an enterprise account. I hope GitHub will allow me to stay up this time. Please consider donating since enterprise accounts are not free.
+# Kostenlose hochwertige TV-Logos für dunkle Hintergründe
 
-# Free high quality TV Logos for dark backgrounds
+Hier findest du kostenlose TV-Logos aus aller Welt in hoher Auflösung, die für dunkle Hintergründe optimiert sind.
 
-Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr.
+## 💛 Unterstütze das Projekt
 
-Here you will find free tv logos from around the world in good high-res quality and suitable for dark backgrounds.
+Wenn du mich dabei unterstützen möchtest, dieses Projekt weiterzuführen, kannst du später hier spenden: [PayPal-Link einfügen]
 
-## 💛 Support me to continue this project
+Die Erstellung und Pflege der Logos und dieses GitHub-Repositories kostet viel Zeit. Jede Unterstützung hilft, mehr Arbeit in das Projekt zu investieren.
 
-If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the GitHub takes quite the time and I would like to put in more work on this project so any donation helps!
+## 🌍 Länder
 
-## 📝 Logo request
-
-[CLICK HERE](https://forms.gle/BVjAKFXwSCuWhpYi7) to go to a form request page where you can request a logo.
-
-## 🌍 Countries
-
-Click on a country to go to its directory. From there you can click the mosaic file at top to see the logos rendered.
+Klicke auf ein Land, um in das Verzeichnis zu wechseln. Dort findest du oben die Mosaik-Datei, die dir die Logos in der Vorschau zeigt.
 
 |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
 |---|---|---|---|---|---|
@@ -33,7 +27,6 @@ Click on a country to go to its directory. From there you can click the mosaic f
 | 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  | 🇺🇦 [Ukraine]  | 🇦🇪 [United-Arab-Emirates]  |
 | 🇬🇧 [United-Kingdom]  | !🇺🇸 [United-States]  | !🌍 [World-Africa] | !🌏 [World-Asia] | !🌍 [World-Europe] | !🌎 [World-Latin-America] |
 | !🌏 [World-Middle-East] |  | !⭐️ [Misc] | !📼 [Vod] |  |  |
-
 
 [Albania]:countries/albania "Albania"
 [Argentina]:countries/argentina "Argentina"
@@ -101,60 +94,31 @@ Click on a country to go to its directory. From there you can click the mosaic f
 
 [Space]:misc/space-1500.png "Space"
 
-## About the project
+## Über das Projekt
 
-The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just right-click on the logo and select copy image address and use that URL for the logo.
+Die Logos sind so angepasst, dass sie auf dunklen Hintergründen gut funktionieren. Einige Logos sind nicht für helle Hintergründe geeignet. Da die GitHub-Oberfläche weiß ist, kann es so aussehen, als würde ein Logo nicht geladen werden. In Wirklichkeit ist es geladen. Rechtsklicke auf das Logo und wähle "Bildadresse kopieren", um die URL zu verwenden.
 
-## I will regularly add new channel logos, you can also message me and request logos
+## Unterstützung für den Entwickler
 
-If you want to support me continuing the work, you can donate by clicking the donate button: Donaters can jump in line and request missing logos for me to do as soon as I can.
+Wenn du mich unterstützen möchtest, kannst du hier spenden: [PayPal-Link einfügen]
 
-* Donators get a channel logo request. I also take requests for custom logos or logos for a light background.
+##INFO
 
-* The goal of this project is to give people better access to logos in good quality and to meet the design requirements of the designers/owners of the logos and supply the increasing demand for better quality experience.
+* Alle Logos sind im PNG-Format und funktionieren gut auf dunklen Hintergründen.
+* Die Logos sind in der Regel 512px breit. Wenn du ein bestimmtes Format brauchst, kontaktiere mich.
+* Ich biete auch Logos für schwer zu findende lokale US-Sender an.
+* Ich besitze die Logos nicht. Viele sind markenrechtlich geschützt und unter Creative Commons ShareAlike lizenziert.
 
-* All the logos come in PNG format and work perfectly on dark backgrounds.
+## Namenskonvention
 
-* The logos are 512px in width. Please contact me if you need a specific logo in a specific resolution.
+Dateinamen sind kleingeschrieben und beginnen mit dem Sendernamen, gefolgt von einer Nummer, falls nötig, und dem Länder-Code am Ende. Leerzeichen werden durch Bindestriche ersetzt.
 
-* I also provide logos for US local networks that can be hard to find.
+Beispiele: `abc-7-koat-us.png` | `discovery-channel-us.png` | `syfy-br.png` | `fox-crime-it.png` | `kanal-5-se.png`
 
-* For a donation I can create a hard-to-find logo or skip the queue for a specific country/network of your own choice and provide the logo's in high quality, contact me for more info.
+Zeitversetzte Kanäle werden mit `plus` gekennzeichnet, z. B. `challenge-plus-uk.png`.
 
-* The list is free for personal use. Please reference my work for any re-distribution. It's forbidden to sell the logos to 3rd party or use them in any illegitimate way. I do not take responsibility for what you do with the logos.
+Wenn ein Ampersand (`&`) im Namen vorkommt, wird es durch `and` ersetzt, z. B. `a-and-e-us.png`.
 
-* I do not own the logos. All the logos in the project do not have copyright on them but instead they are trademarked and with Creative Commons ShareAlike licenses. PM me if you wish to remove/change a logo you own or submit your own logo.
+Horizontale Versionen erhalten `hz` im Namen, falls es auch eine normale Version gibt, z. B. `bbc-world-news-hz-uk.png`.
 
-* At some point in the future I plan to upload logos in SVG. This is not high priority right now.
-
-* You can link directly to the RAW URL of any logo but I do not take any responsibility if links are broken. If you are having issues with the logos url's then contact me.
-
-* If a channel changes its logo or rebrands, I will replace the original logo, if you are using direct link then the logo will update for you automatically. It can take some time for some devices/software to update the logo, you might need to restart/clear cache.
-
-* If you would like to be able to link the logos to a service you provide, for example a website/service/app then please contact me first.
-
-* Did you discover a mistake? Or is something not like it should be? Then please let me know by sending me a message/email at tapio.sinnertwin(at)gmail.com
-
-## Naming convention
-
-Filenames are all lowercase and start with channel name and then number if applicable and country code at the end. Dashes are used to replace spaces. Call signs for local networks are also lowercase and appear before country.
-
-Examples: `abc-7-koat-us.png` | `discovery-channel-us.png` | `syfy-br.png` | `fox-crime-it.png` | `kanal-5-se.png`
-
-Time delay channels are identified with `plus`, example: `challenge-plus-uk.png` For Australia the +2 channels are `fox-hits-plus-2-au.png`
-
-If ampersand (`&`) is present in channel name then it will be replaced with `and`, example: `a-and-e-us.png`
-
-For channels that don't authenticate with a network affiliate or Owned-and-operated station then I will use the call sign and/or city/region.
-
-Example: `7-news-miami-wsvn-us.png` | `7-news-boston-whdh-us.png`
-
-Be aware of the dash when searching for a logo in a long list of channels, include it in your search. You can also write your search string without the dashes and spaces, it might give better results
-
-Example: `channel-4` instead of `channel 4`, or just `channel4`
-
-A horizontal version of a logo will have `hz` in its name if there's a regular version also. Example: `bbc-world-news-hz-uk.png`
-
-This project is possible thanks to Creative Commons ShareAlike licenses, CC BY-SA and CC BY-NC-SA. By using the logos you have to agree with the following: The logo you are about to use is the intellectual property of the copyright, trademark holder and is offered to you as a convenience for lawful use.
-
-For more info on the project or information please PM me or send me email at tapio.sinnertwin(at)gmail.com I will try my best to reply within 24hr. Thank you.
+Dieses Projekt ist dank Creative Commons ShareAlike Lizenzen möglich, CC BY-SA und CC BY-NC-SA. Durch die Nutzung der Logos erklärst du dich damit einverstanden, dass die Logos geistiges Eigentum der Rechteinhaber sind und hier nur zur Verfügung gestellt werden.
