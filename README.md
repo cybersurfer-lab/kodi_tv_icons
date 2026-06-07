@@ -105,7 +105,7 @@ Wenn du mich unterstützen möchtest, kannst du hier spenden: [PayPal-Link einf�
 ##INFO
 
 * Alle Logos sind im PNG-Format und funktionieren gut auf dunklen Hintergründen.
-* Die Logos sind in der Regel 512px breit. Wenn du ein bestimmtes Format brauchst, kontaktiere mich.
+* Die Logos sind in der Regel 512px breit.
 * Ich biete auch Logos für schwer zu findende lokale US-Sender an.
 * Ich besitze die Logos nicht. Viele sind markenrechtlich geschützt und unter Creative Commons ShareAlike lizenziert.
 
